@@ -1,0 +1,3 @@
+Two zip packages.
+one with the dataset and the other with the OUTPUT and code. 
+The code is divided into four folders, the first named Step1, the training dataset. The second name is Step2, using the trained model to do image, video detection. The third name is Step3, some images for training model. The fourth is a demo of a pre-existing model trying to run.
